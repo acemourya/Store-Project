@@ -22,7 +22,7 @@
 Run the following command to clone the repository:
 
 ```bash
-git clone https://gitlab.com/mountblue/cohort-16-python/anuragm/django-toy-project.git
+git clone git@github.com:acemourya/Store-Project.git
 ```
 
 After succesfully cloning the repository, move the current directory to django-toy-project by running the following command:

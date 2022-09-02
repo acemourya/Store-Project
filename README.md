@@ -74,6 +74,18 @@ Open given server link on brower :
 
     http://127.0.0.1:8000/customer/
 
+    Input Body:
+
+    {
+      "profile_number": 1234,
+      "user": {
+         "first_name": "XYZ",
+         "last_name": "XYZ",
+         "email": "xyz@gmail.com",
+         "phone_number": "1234556789"
+         }
+      }
+
 ## 6. For stoping runable project
 
 In terminal press: **ctrl + C**

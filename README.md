@@ -25,7 +25,7 @@ Run the following command to clone the repository:
 git clone git@github.com:acemourya/Store-Project.git
 ```
 
-After succesfully cloning the repository, move the current directory to django-toy-project by running the following command:
+After succesfully cloning the repository, move the current directory to store-project by running the following command:
 
 ```bash
 cd StoreProject

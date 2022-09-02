@@ -1,0 +1,3 @@
+[flake8]
+
+exclude = venv, manage.py, migrations, settings.py, apps.py, tests.py, ./employee/admin.py, ./usr/admin.py, ./employee/models.py, ./usr/models.py
